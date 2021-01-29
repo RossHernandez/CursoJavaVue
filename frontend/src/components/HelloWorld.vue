@@ -81,7 +81,7 @@
                 guardado: false,
                 options: [
                     { value: null, text: 'Seleccione' },
-                    {value: 'producto.idTipoProducto.nombre', text: 'nombre'}
+                    this.producto.idProducto.nombre
                 ],
             }
         },
